@@ -1,0 +1,36 @@
+{
+  "name": "Saint Saturn",
+  "version": "v2.0",
+  "description": "Creation By @xysokep",
+  "main": "saturn.js",
+  "scripts": {
+    "start": "node saturn.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:seiren-primrose/PL-Baileys",
+    "axios": "^1.6.8",
+    "baileys-pro": "^0.0.5",
+    "body-parser": "^1.20.3",
+    "boxen": "^8.0.1",
+    "chalk": "^4.1.2",
+    "crypto": "latest",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "figlet": "^1.8.1",
+    "fs": "^0.0.1-security",
+    "inquirer": "^12.6.3",
+    "js-confuser": "^1.7.1",
+    "moment-timezone": "latest",
+    "node-fetch": "^2.7.0",
+    "node-telegram-bot-api": "^0.64.0",
+    "pino": "^9.7.0",
+    "qrcode-terminal": "^0.12.0",
+    "readline-sync": "^1.4.10",
+    "telegraf": "^4.16.3",
+    "telegram": "^2.26.8",
+    "twilio": "^5.3.7",
+    "whatsapp-web.js": "^1.26.0",
+    "yt-search": "^2.13.1",
+    "ytdl-core": "^4.11.5"
+  }
+}
